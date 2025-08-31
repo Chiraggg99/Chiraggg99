@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Chirag Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/LvXdykz3anX9eLeolAPRBmcL4dvf1VA9mLQkZCv97xA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtY2hvY2stY29k/aW5nLWM3OGY2ZWxq/MzJzZm9pOHEuZ2lm.gif">
+<img align="right" alt="Coding" width="400" 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiraggg99&label=Profile%20views&color=0e75b6&style=flat" alt="chiraggg99" /> </p>
 <p align="left"> <a href="https://twitter.com/iamchiragsingh" target="blank"><img src="https://img.shields.io/twitter/follow/iamchiragsingh?logo=twitter&style=for-the-badge" alt="iamchiragsingh" /></a> </p>
