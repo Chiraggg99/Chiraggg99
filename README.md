@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Science and Data Analytics**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Chiraggg99](https://github.com/Chiraggg99)
+- 👨‍💻 All of my projects are available at [Chiraggg99](https://github.com/Chiraggg99)
 
 - 📫 How to reach me **cschiragsingh999@gmail.com**
 
