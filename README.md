@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **cschiragsingh999@gmail.com**
 
-- ⚡ Fun fact **I love technologiaa!**
+- ⚡ Fun fact **I love technologiaaa!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
