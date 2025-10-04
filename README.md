@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Machine Learning and Deep Learning Projects**
 
-- 🌱 I’m currently learning **Data Science and Data Analytics**
+- 🌱 I’m currently learning **Data Science and Data Analyticss**
 
 - 👨‍💻 All of my projects are available at [Chiraggg99](https://github.com/Chiraggg99)
 
